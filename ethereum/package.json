@@ -1,0 +1,20 @@
+{
+  "name": "blockbird",
+  "version": "0.0.1",
+  "description": "Blockbird smart contracts.",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "bignumber.js": "^8.0.1",
+    "chai-bignumber": "^2.0.2",
+    "chai": "^4.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Blockbird",
+  "license": "ISC"
+}
